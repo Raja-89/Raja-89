@@ -18,8 +18,7 @@ I'm an aspiring **AI/ML Engineer** passionate about building intelligent systems
 ---
 
 ## 🎓 Education
-- **M.Tech in Artificial Intelligence** – [Your University], 2023
-- **B.Tech in Computer Science** – [Your University], 2021
+- **B.Tech in Mathematics and Computing(MCE)** – [Delhi Technological University], 2028
 
 ---
 
