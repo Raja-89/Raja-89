@@ -160,13 +160,16 @@
 
 <!-- Animated Section Separator -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Raja-89&theme=dark" width="300px" alt="GitHub Streak Stats" />
+  <img src="https://raw.githubusercontent.com/Raja-89/profile-assets/main/animated-bar.gif" width="300px"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raja-89&layout=compact&theme=dark" alt="Top Languages Card" />
 </p>
 
-<p align="center">
-  <img src="https://svg-banners.vercel.app/api?type=scrolling&text=Let's+build+something+awesome+together!&color=green" width="435px" alt="Scrolling SVG" />
-</p>
+
+
 <!-- Footer SVG Wave -->
+
 <p align="center">
-  <img src="https://profile-counter.glitch.me/Raja-89/count.svg" alt="Visitors Count" />
+  <img src="https://raw.githubusercontent.com/Raja-89/profile-assets/main/footer-wave.svg" width="100%" />
 </p>
