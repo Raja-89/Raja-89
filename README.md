@@ -2,7 +2,7 @@
 
 <!-- Header SVG Gradient Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Raja-89/profile-assets/main/banner.svg" width="100%" alt="Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&text=Welcome+to+My+Profile!&section=header" width="100%" alt="Dynamic Header Banner" />
 </p>
 
 <h1 align="center">👋 Hi, I'm Raja Rathour</h1>
@@ -160,14 +160,13 @@
 
 <!-- Animated Section Separator -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Raja-89/profile-assets/main/animated-bar.gif" width="300px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Raja-89&theme=dark" width="300px" alt="GitHub Streak Stats" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F72585&width=435&lines=Let%27s+build+something+awesome+!" alt="Typing SVG" />
+  <img src="https://svg-banners.vercel.app/api?type=scrolling&text=Let's+build+something+awesome+together!&color=green" width="435px" alt="Scrolling SVG" />
 </p>
-
 <!-- Footer SVG Wave -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Raja-89/profile-assets/main/footer-wave.svg" width="100%" />
+  <img src="https://profile-counter.glitch.me/Raja-89/count.svg" alt="Visitors Count" />
 </p>
