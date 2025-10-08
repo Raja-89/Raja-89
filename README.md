@@ -171,5 +171,7 @@
 <!-- Footer SVG Wave -->
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Raja-89/profile-assets/main/footer-wave.svg" width="100%" />
+  ---
+  Made with ❤️ using Markdown
+  ---
 </p>
