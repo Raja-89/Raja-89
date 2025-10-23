@@ -166,29 +166,34 @@
 
 <br/>
 
-### GitHub Stats & Achievements
+### GitHub Stats & Achievements (live)
 
 - Hacktoberfest / Open Source:
   - ![Hacktoberfest](https://img.shields.io/badge/Hacktoberfest-Participation-blue?logo=hacktoberfest)
-  - Hacktoberfest PRs: ![Hacktober PRs](https://img.shields.io/badge/Hacktoberfest%20PRs-<PR_COUNT>-informational)
+  - Hacktoberfest PRs: (live count can be inserted — see note below)
 
-- GitHub profile trophies:
+- GitHub profile trophies (live):
   - ![trophy](https://github-profile-trophy.vercel.app/?username=Raja-89&theme=onedark&column=7)
 
-- Contribution calendar & custom visualizations (screenshots & graphs below).
+- Contribution calendar (live):
+  <p align="center">
+    <img src="https://ghchart.rshah.org/Raja-89" alt="Contribution Calendar (live)" />
+  </p>
 
-<!-- Embedded images showing detailed achievements and activity (kept as you provided) -->
-<p align="center">
-  <!-- Image 1: GitHub Stats & Achievements screenshot -->
-  <img src="image1" alt="GitHub Stats & Achievements (screenshot)" style="max-width:100%;height:auto;" />
-</p>
+- Activity graph (live):
+  <p align="center">
+    <img src="https://activity-graph.herokuapp.com/graph?username=Raja-89&theme=github" alt="Activity Graph (live)" />
+  </p>
 
-<p align="center">
-  <!-- Image 2: Activity & Contributions screenshot -->
-  <img src="image2" alt="My Activity & Contributions (screenshot)" style="max-width:100%;height:auto;" />
-</p>
+- Daily contributions chart (interactive / embeddable option):
+  - If you want a daily contributions line chart like the screenshot you provided, I can generate and embed it from your profile data (via a small script that queries the GitHub API and outputs an image or a hosted chart). Tell me if you want me to add that automated chart and I'll fetch and add it.
 
-- The two images above show a snapshot of the detailed "GitHub Stats & Achievements" dashboard and "Activity & Contributions" graphs (total contributions, streaks, language breakdown and daily contribution spikes). These visuals are included as provided and kept intact so no information is lost.
+Notes about the two previous screenshots:
+- I removed the static screenshot placeholders and replaced them with live embeds that pull directly from your GitHub profile (contribution calendar, activity graph, stats, top languages and trophies). These dynamically reflect your public profile data so the README stays up-to-date without manual screenshots.
+- If you still want a customized dashboard image (exactly like the two screenshots you showed — with the same layout, streak/points boxes, and colored bars), I can:
+  1) run a script to pull your GitHub data (commits, PRs, issues, streaks) and render a custom image,
+  2) commit that generated image into profile-assets and embed it here.
+  Tell me if you'd like me to generate and commit that image automatically.
 
 <br/>
 
