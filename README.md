@@ -1,7 +1,5 @@
 <p align="center">
-  <a href="https://github.com/Raja-89">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=RAJA%20RATHOUR%20%7C%20AI/ML%20ENGINEER&fontSize=60&animation=fadeIn&fontAlignY=38" alt="Dynamic Header Banner" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&text=RAJA%20RATHOUR%20%7C%20AI/ML%20ENGINEER&fontSize=50&animation=fadeIn&fontAlignY=38" width="100%" alt="Dynamic Header Banner" />
 </p>
 
 <h1 align="center">👋 Hi, I'm Raja Rathour</h1>
@@ -11,30 +9,60 @@
 
 ---
 
-<h2 align="center">🌐 Let's Connect!</h2>
-
 <p align="center">
-  <a href="https://www.linkedin.com/in/raja-rathour-067965325/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="25" alt="LinkedIn" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=vercel&logoColor=white" height="25" alt="Portfolio" /></a>
-  <a href="mailto:imraja729@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25" alt="Email" /></a>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHE2bmFqdGJmcWtkYml6bnVpZzFjajVpNml1Y2ttYngwNndvdGgwdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S4AoOdnnQXVSHxtGMP/giphy.gif" width="300px" alt="Animated Separator"/>
 </p>
 
-<p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHE2bmFqdGJmcWtkYml6bnVpZzFjajVpNml1Y2ttYngwNndvdGgwdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S4AoOdnnQXVSHxtGMP/giphy.gif" width="300px" alt="Animated Bar"/>
-</p>
+## 🛠️ Skills & Technologies
 
----
-
-## 🛠️ Core Tech Stack
-
-This combines the concise skill icons from the first example into your profile, maintaining your focus but giving a quick visual overview.
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,scikitlearn,docker,aws" height="50" alt="Core ML/Cloud Stack" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=js,html,css,git,github" height="50" alt="Core Web/DevOps Stack" />
-</div>
-
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
+      <br/>Python
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
+      <br/>JavaScript
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" />
+      <br/>PyTorch
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40"/>
+      <br/>TensorFlow
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
+      <br/>Docker
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
+      <br/>HTML
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
+      <br/>CSS
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+      <br/>Git
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
+      <br/>GitHub
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-plain.svg" width="40" />
+      <br/>Machine Learning
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" />
+      <br/>Deep Learning
+    </td>
+  </tr>
+</table>
 <br/>
 
 <details>
@@ -54,7 +82,7 @@ This combines the concise skill icons from the first example into your profile, 
 </details>
 
 <details>
-  <summary><b>NLP & Transformers</b></summary>
+  <summary><b>NLP</b></summary>
   <img src="https://img.shields.io/badge/spaCy-09A3D5?style=flat"/>
   <img src="https://img.shields.io/badge/NLTK-7CB02C?style=flat"/>
   <img src="https://img.shields.io/badge/TF--IDF-000?style=flat"/>
@@ -62,11 +90,24 @@ This combines the concise skill icons from the first example into your profile, 
 </details>
 
 <details>
-  <summary><b>Cloud & MLOps</b></summary>
+  <summary><b>Cloud & DevOps</b></summary>
   <img src="https://img.shields.io/badge/AWS_S3-FF9900?style=flat&logo=amazonaws&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vercel-000?style=flat&logo=vercel&logoColor=white"/>
+</details>
+
+<details>
+  <summary><b>Web Development</b></summary>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+</details>
+
+<details>
+  <summary><b>Version Control</b></summary>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
 </details>
 
 ---
@@ -81,33 +122,40 @@ This combines the concise skill icons from the first example into your profile, 
 
 ---
 
-## 📈 GitHub Stats & Activity
+## 🏆 GitHub Stats & Achievements
 
-Showcasing your stats and top languages side-by-side for a clean layout.
+**This section is optimized to look like the chart you provided.** It features the combined GitHub stats, top languages, and profile trophies.
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Raja-89&show_icons=true&hide_title=true&theme=radical&count_private=true&line_height=25&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raja-89&layout=compact&theme=radical&line_height=25&hide_title=true&hide_border=true" alt="Top Languages Card" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Raja-89&show_icons=true&hide_title=true&theme=dark&count_private=true&line_height=25&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-  </picture>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raja-89&layout=compact&theme=dark&line_height=25&hide_title=true&hide_border=true" alt="Top Languages Card" />
+</p>
+
+<p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=Raja-89&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" alt="GitHub Trophies" />
 </p>
 
 ---
 
-## 🎓 Education
+### 🎓 Education
 
 - **B.Tech in Mathematics and Computing (MCE)** – [Delhi Technological University], 2028
 
 ---
 
+### 🌐 Let's Connect!
+
 <p align="center">
-  ---
-  Made with ❤️ using Markdown
-  ---
+  <a href="https://www.linkedin.com/in/raja-rathour-067965325/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="mailto:imraja729@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  ---
+  Made with ❤️ using Markdown
+  ---
 </p>
