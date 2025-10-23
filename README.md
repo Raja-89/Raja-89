@@ -14,13 +14,10 @@
 
 <!-- Social & Badges -->
 <p align="center">
-  <!-- Profile view & follow -->
   <img src="https://komarev.com/ghpvc/?username=Raja-89&style=flat-square" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/Raja-89?label=Follow&style=social" alt="Follow on GitHub" />
-  <!-- Hacktoberfest / Open Source badges -->
   <a href="https://hacktoberfest.digitalocean.com/"><img src="https://img.shields.io/badge/Hacktoberfest-Contributor-brightgreen?logo=hacktoberfest" alt="Hacktoberfest Contributor" /></a>
   <img src="https://img.shields.io/badge/Open%20Source-Contributor-blue" alt="Open Source" />
-  <!-- Email / LinkedIn -->
   <a href="https://www.linkedin.com/in/raja-rathour-067965325/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
@@ -158,6 +155,17 @@
 
 <br/>
 
+<!-- Embed generated dashboards (will be produced by the GitHub Action) -->
+<p align="center">
+  <img src="profile-assets/dashboard-achievements.svg" alt="Dashboard: Achievements" style="max-width:100%;height:auto;" />
+</p>
+
+<p align="center">
+  <img src="profile-assets/dashboard-activity.svg" alt="Dashboard: Activity" style="max-width:100%;height:auto;" />
+</p>
+
+<br/>
+
 <!-- GitHub Stats Card -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Raja-89&show_icons=true&hide_title=true&theme=radical" alt="GitHub Stats" />
@@ -170,32 +178,60 @@
 
 - Hacktoberfest / Open Source:
   - ![Hacktoberfest](https://img.shields.io/badge/Hacktoberfest-Participation-blue?logo=hacktoberfest)
-  - Hacktoberfest PRs: (live count can be inserted — see note below)
+  - Hacktoberfest PRs: <!--AUTOGEN:HAM_PR_COUNT-->
 
-- GitHub profile trophies (live):
+- GitHub profile trophies:
   - ![trophy](https://github-profile-trophy.vercel.app/?username=Raja-89&theme=onedark&column=7)
 
-- Contribution calendar (live):
-  <p align="center">
-    <img src="https://ghchart.rshah.org/Raja-89" alt="Contribution Calendar (live)" />
-  </p>
-
-- Activity graph (live):
-  <p align="center">
-    <img src="https://activity-graph.herokuapp.com/graph?username=Raja-89&theme=github" alt="Activity Graph (live)" />
-  </p>
-
-- Daily contributions chart (interactive / embeddable option):
-  - If you want a daily contributions line chart like the screenshot you provided, I can generate and embed it from your profile data (via a small script that queries the GitHub API and outputs an image or a hosted chart). Tell me if you want me to add that automated chart and I'll fetch and add it.
-
-Notes about the two previous screenshots:
-- I removed the static screenshot placeholders and replaced them with live embeds that pull directly from your GitHub profile (contribution calendar, activity graph, stats, top languages and trophies). These dynamically reflect your public profile data so the README stays up-to-date without manual screenshots.
-- If you still want a customized dashboard image (exactly like the two screenshots you showed — with the same layout, streak/points boxes, and colored bars), I can:
-  1) run a script to pull your GitHub data (commits, PRs, issues, streaks) and render a custom image,
-  2) commit that generated image into profile-assets and embed it here.
-  Tell me if you'd like me to generate and commit that image automatically.
+- Contribution calendar & custom visualizations (auto-generated above).
 
 <br/>
+
+### My Activity & Contributions (live stats & charts)
+
+- The two dashboards above are generated daily by a GitHub Action using live profile data. They include totals, streaks, language breakdowns and a 30-day activity chart.
+
+<br/>
+
+### New Icons Block (from your last paste)
+<h1 align="center">Hey 👋What's Up?</h1>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="storybook logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
+  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
+</div>
+
+<br/>
+
+<!-- Animated Section Separator -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Raja-89/profile-assets/main/animated-bar.gif" width="300px" alt="animated bar"/>
+</p>
 
 ### 🌐 Let's Connect!
 
@@ -206,11 +242,6 @@ Notes about the two previous screenshots:
 </p>
 
 <br/>
-
-<!-- Animated Section Separator -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Raja-89/profile-assets/main/animated-bar.gif" width="300px" alt="animated bar"/>
-</p>
 
 <p align="center">
   ---
