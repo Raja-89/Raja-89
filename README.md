@@ -1,72 +1,46 @@
-<!-- Responsive & Stylish README for Raja-89 -->
-
-<!-- Header SVG Gradient Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&text=Welcome+to+My+Profile!&section=header" width="100%" alt="Dynamic Header Banner" />
+  <a href="https://github.com/Raja-89">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=RAJA%20RATHOUR&fontSize=90&animation=fadeIn&fontAlignY=38" alt="Dynamic Header Banner" />
+  </a>
 </p>
 
-<h1 align="center">👋 Hi, I'm Raja Rathour</h1>
+<h1 align="center">Aspiring AI/ML Engineer | Intelligent Systems | Scalable ML Solutions 👋</h1>
+
+---
+
 <p align="center">
-  <b>Aspiring AI/ML Engineer | Intelligent Systems | Scalable ML Solutions</b>
+  Connect with me on:
+  <br/>
+  <a href="https://www.linkedin.com/in/raja-rathour-067965325/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="mailto:imraja729@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
+
+<p align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHE2bmFqdGJmcWtkYml6bnVpZzFjajVpNml1Y2ttYngwNndvdGgwdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S4AoOdnnQXVSHxtGMP/giphy.gif" width="300px" alt="Animated Bar"/>
+</p>
+
+---
+
+## 🛠️ Tech Stack & Skills
+
+The original **table of skills** is great, but very long. I've replaced it with a more visually clean badge section, making it easier to scan.
+
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=py,js" height="40" alt="Python, JavaScript" />
+    <img width="10" />
+    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,scikitlearn" height="40" alt="PyTorch, TensorFlow, Scikit-learn" />
+    <img width="10" />
+    <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="40" alt="Pandas" />
+    <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" height="40" alt="NumPy" />
+    <img width="10" />
+    <img src="https://skillicons.dev/icons?i=docker,aws,git,github" height="40" alt="Docker, AWS, Git, GitHub" />
+    <img width="10" />
+    <img src="https://skillicons.dev/icons?i=html,css,vercel" height="40" alt="HTML, CSS, Vercel" />
+    <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" height="40" alt="Streamlit" />
+</div>
 
 <br/>
-
-<!-- Animated Section Separator -->
-<p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHE2bmFqdGJmcWtkYml6bnVpZzFjajVpNml1Y2ttYngwNndvdGgwdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S4AoOdnnQXVSHxtGMP/giphy.gif"/>
-</p>
-
-### 🛠️ Skills & Technologies
-
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
-      <br/>Python
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
-      <br/>JavaScript
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" />
-      <br/>PyTorch
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40"/>
-      <br/>TensorFlow
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
-      <br/>Docker
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
-      <br/>HTML
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
-      <br/>CSS
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
-      <br/>Git
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
-      <br/>GitHub
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-plain.svg" width="40" />
-      <br/>Macine Learning
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" />
-      <br/>Deep Learning
-    </td>
-  </tr>
-</table>
 
 <details>
   <summary><b>Machine Learning & Deep Learning</b></summary>
@@ -113,65 +87,43 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
 </details>
 
-<br/>
+---
 
-<!-- Animated Section Separator -->
+## 💡 Featured Projects
+
+Your project table is **excellent**—clear, concise, and professional. I'll keep it as is.
+
+| Project | Description | Tech Stack | Demo/Repo |
+| :------- | :----------- | :---------- | :--------- |
+| 🥗 **FoodVision-AI** | Intelligent food recognition app using deep learning to identify dishes from images. <br> **Classifies 101 food categories with high accuracy.** | PyTorch, Food-101, Vercel, HTML, JS | [💻 GitHub](https://github.com/Raja-89/FoodVision-AI) <br> [🚀 Live App](https://food-vision-ai-seven.vercel.app) |
+| 📰 **Fake News Detector** | Machine learning-based real-time fake news detection app. <br> **Classifies news as FAKE or TRUE; shows prediction confidence scores.** | Python, NLP, TF-IDF, Logistic Regression, Streamlit | [💻 GitHub](https://github.com/Raja-89/fake-news-detector) |
+| 🧩 **Tech Stack Tracker** | Web app for tracking and visualizing technology stacks. <br> **Showcases web dev and frontend skills.** | JavaScript, HTML, CSS | [💻 GitHub](https://github.com/Raja-89/tech-stack-tracker) |
+
+---
+
+## 📈 GitHub Stats
+
+I'll put the stats cards in a single line to save vertical space.
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Raja-89/profile-assets/main/animated-bar.gif" width="300px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Raja-89&show_icons=true&hide_title=true&theme=radical&count_private=true&line_height=25" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raja-89&layout=compact&theme=radical&line_height=25&hide_title=true" alt="Top Languages Card" />
 </p>
 
-### 🎓 Education
+---
+
+## 🎓 Education
+
+This is perfectly clear and professional.
 
 - **B.Tech in Mathematics and Computing (MCE)** – [Delhi Technological University], 2028
 
-<br/>
+---
 
-<!-- Animated Section Separator -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Raja-89/profile-assets/main/animated-bar.gif" width="300px"/>
+  **Thanks for stopping by! Let's build something intelligent.**
 </p>
 
-### 💡 Featured Projects
-
-| Project | Description | Tech Stack | Demo/Repo |
-| ------- | ----------- | ---------- | --------- |
-| 🥗 **FoodVision-AI** | Intelligent food recognition app using deep learning to identify dishes from images. <br> <b>Classifies 101 food categories with high accuracy.</b> | PyTorch, Food-101, Vercel, HTML, JS | [💻 GitHub](https://github.com/Raja-89/FoodVision-AI) <br> [🚀 Live App](https://food-vision-ai-seven.vercel.app) |
-| 📰 **Fake News Detector** | Machine learning-based real-time fake news detection app. <br> <b>Classifies news as FAKE or TRUE; shows prediction confidence scores.</b> | Python, NLP, TF-IDF, Logistic Regression, Streamlit | [💻 GitHub](https://github.com/Raja-89/fake-news-detector) |
-| 🧩 **Tech Stack Tracker** | Web app for tracking and visualizing technology stacks. <br> <b>Showcases web dev and frontend skills.</b> | JavaScript, HTML, CSS | [💻 GitHub](https://github.com/Raja-89/tech-stack-tracker) |
-
-<br/>
-
-<!-- GitHub Stats Card -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Raja-89&show_icons=true&hide_title=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<br/>
-
-### 🌐 Let's Connect!
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/raja-rathour-067965325/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="mailto:imraja729@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
-
-<br/>
-
-<!-- Animated Section Separator -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Raja-89/profile-assets/main/animated-bar.gif" width="300px"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raja-89&layout=compact&theme=dark" alt="Top Languages Card" />
-</p>
-
-
-
-<!-- Footer SVG Wave -->
-
-<p align="center">
-  ---
-  Made with ❤️ using Markdown
-  ---
+  <img src="https://media.giphy.com/media/LmN8APkTAk2rK/giphy.gif" width="30"/>
 </p>
