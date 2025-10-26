@@ -120,7 +120,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://my-trophies-ojvm0ybcn-raja-89s-projects.vercel.app/?username=Raja-89&theme=onedark" alt="GitHub Trophies" />
+  <img src="https://my-trophies.vercel.app/?username=Raja-89&theme=onedark" alt="GitHub Trophies" />
 </p>
 
 
