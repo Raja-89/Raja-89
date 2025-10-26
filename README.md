@@ -115,17 +115,6 @@
 <!-- Streak Stats -->
 <img src="https://streak-stats.demolab.com?user=Raja-89&theme=tokyonight&hide_border=false&date_format=j%20M%5B%20Y%5D" height="150" alt="GitHub Streak"/>
 
-<!-- Trophies -->
-
-## 🏆 GitHub Trophies
-
-
-<p align="center">
-  <img src="https://my-trophies.vercel.app/?username=Raja-89&theme=onedark&rank=-UNKNOWN&no-frame=true&column=-1" alt="GitHub Trophies" />
-</p>
-
-
-
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Raja-89&theme=react-dark&radius=16&area=true&hide_border=false" height="300" alt="Activity Graph"/>
 
