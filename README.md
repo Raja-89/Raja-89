@@ -119,7 +119,15 @@
 
 ## 🏆 GitHub Trophies
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Raja-89&theme=onedark&column=4&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)<img src="https://github-readme-activity-graph.vercel.app/graph?username=Raja-89&theme=react-dark&radius=16&area=true&hide_border=false" height="300" alt="Activity Graph"/>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Raja-89&theme=onedark" alt="GitHub Trophies" />
+</p>
+
+
+
+
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Raja-89&theme=react-dark&radius=16&area=true&hide_border=false" height="300" alt="Activity Graph"/>
 
 </div>
 
