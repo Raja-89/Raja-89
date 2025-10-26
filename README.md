@@ -119,8 +119,9 @@
 
 ## 🏆 GitHub Trophies
 
+
 <p align="center">
-  <img src="https://my-trophies.vercel.app/?username=Raja-89&theme=onedark" alt="GitHub Trophies" />
+  <img src="https://my-trophies.vercel.app/?username=Raja-89&theme=onedark&rank=-UNKNOWN&no-frame=true&column=-1" alt="GitHub Trophies" />
 </p>
 
 
