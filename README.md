@@ -10,6 +10,11 @@
 
 <br/>
 
+
+<!-- Animated Section Separator -->
+<p align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="500">
+</p>
 <!-- 🌟 ABOUT ME SECTION -->
 <table align="center" width="100%">
   <tr>
@@ -17,18 +22,18 @@
 
 ### 💫 About Me
 
-- 🎯 Passionate about **building intelligent, data-driven systems** that solve real-world problems  
-- 🤖 Currently exploring **Deep Learning**, **Computer Vision**, and **Generative AI**  
-- 💡 Interested in combining **Mathematics + Programming** to create meaningful innovation  
-- 🌱 Always learning — focusing on **MLOps** and **scalable ML deployment**  
-- 💬 I love discussing **AI Ethics, Optimization, and Clean Architecture**  
-- ⚡ Fun fact: I debug faster with music 🎧  
+-  Passionate about **building intelligent, data-driven systems** that solve real-world problems  
+-  Currently exploring **Deep Learning**, **Computer Vision**, and **Generative AI**  
+-  Interested in combining **Mathematics + Programming** to create meaningful innovation  
+-  Always learning — focusing on **MLOps** and **scalable ML deployment**  
+-  I love discussing **AI Ethics, Optimization, and Clean Architecture**  
+-  Fun fact: I debug faster with music 🎧  
 
 > “Don’t aim for success. Aim for value — success will follow.”
 
    </td>
    <td width="40%" align="center">
-     <img src="[https://github.com/Raja-89/profile-assets/blob/main/profile-pic.png](https://octodex.github.com/images/universetocat.png)" alt="Raja Rathour" width="220" height="220" style="border-radius: 50%; box-shadow: 0px 0px 15px rgba(100,100,255,0.3);" />
+     <img src="[https://octodex.github.com/images/universetocat.pn](https://octodex.github.com/images/universetocat.png)" alt="Raja Rathour" width="220" height="220" style="border-radius: 50%; box-shadow: 0px 0px 15px rgba(100,100,255,0.3);" />
      <br/>
      <sub><i>Add your image at: <code>profile-assets/profile-pic.png</code></i></sub>
    </td>
@@ -36,11 +41,6 @@
 </table>
 
 ---
-
-<!-- Animated Section Separator -->
-<p align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="500">
-</p>
 
 ---
 
