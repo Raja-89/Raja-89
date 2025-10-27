@@ -13,7 +13,7 @@
 
 <!-- Animated Section Separator -->
 <p align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="700">
+<img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="900">
 </p>
 <!-- 🌟 ABOUT ME SECTION -->
 <table align="center" width="100%">
@@ -29,13 +29,12 @@
 -  I love discussing **AI Ethics, Optimization, and Clean Architecture**  
 -  Fun fact: I debug faster with music 🎧  
 
-> “Don’t aim for success. Aim for value — success will follow.”
+> “Don’t aim for success. Aim for excellence — success will follow.”
 
    </td>
    <td width="40%" align="center">
      <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="300">
      <br/>
-     <sub><i>Add your image at: <code>profile-assets/profile-pic.png</code></i></sub>
    </td>
   </tr>
 </table>
