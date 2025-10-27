@@ -10,11 +10,36 @@
 
 <br/>
 
+<!-- 🌟 ABOUT ME SECTION -->
+<table align="center" width="100%">
+  <tr>
+    <td width="60%" align="left" valign="top">
+
+### 💫 About Me
+
+- 🎯 Passionate about **building intelligent, data-driven systems** that solve real-world problems  
+- 🤖 Currently exploring **Deep Learning**, **Computer Vision**, and **Generative AI**  
+- 💡 Interested in combining **Mathematics + Programming** to create meaningful innovation  
+- 🌱 Always learning — focusing on **MLOps** and **scalable ML deployment**  
+- 💬 I love discussing **AI Ethics, Optimization, and Clean Architecture**  
+- ⚡ Fun fact: I debug faster with music 🎧  
+
+> “Don’t aim for success. Aim for value — success will follow.”
+
+   </td>
+   <td width="40%" align="center">
+     <img src="[https://github.com/Raja-89/profile-assets/blob/main/profile-pic.png](https://octodex.github.com/images/universetocat.png)" alt="Raja Rathour" width="220" height="220" style="border-radius: 50%; box-shadow: 0px 0px 15px rgba(100,100,255,0.3);" />
+     <br/>
+     <sub><i>Add your image at: <code>profile-assets/profile-pic.png</code></i></sub>
+   </td>
+  </tr>
+</table>
+
+---
+
 <!-- Animated Section Separator -->
 <p align="center">
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="600">
-</p>
+<img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="500">
 </p>
 
 ---
@@ -44,40 +69,38 @@
 ---
 
 ## 🛠️ Detailed Skill Categories
-**Machine Learning & Deep Learning**
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white" alt="PyTorch" height="25"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white" alt="scikit-learn" height="25"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white" alt="TensorFlow" height="25"/>
-  <img src="https://img.shields.io/badge/XGBoost-EC2026?logoColor=white" alt="XGBoost" height="25"/>
+**Machine Learning & Deep Learning**  
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/XGBoost-EC2026?logoColor=white" height="25"/>
 
-**Data Science & Analysis**
-  <img src="https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white" alt="pandas" height="25"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white" alt="NumPy" height="25"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?logo=matplotlib&logoColor=white" alt="Matplotlib" height="25"/>
-  <img src="https://img.shields.io/badge/Seaborn-76B5AF" alt="Seaborn" height="25"/>
+**Data Science & Analysis**  
+  <img src="https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?logo=matplotlib&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/Seaborn-76B5AF" height="25"/>
 
-**NLP**
-  <img src="https://img.shields.io/badge/spaCy-09A3D5" alt="spaCy" height="25"/>
-  <img src="https://img.shields.io/badge/NLTK-7CB02C" alt="NLTK" height="25"/>
-  <img src="https://img.shields.io/badge/TF--IDF-000" alt="TF-IDF" height="25"/>
-  <img src="https://img.shields.io/badge/Transformers-FFB300" alt="Transformers" height="25"/>
+**NLP**  
+  <img src="https://img.shields.io/badge/spaCy-09A3D5" height="25"/>
+  <img src="https://img.shields.io/badge/NLTK-7CB02C" height="25"/>
+  <img src="https://img.shields.io/badge/TF--IDF-000" height="25"/>
+  <img src="https://img.shields.io/badge/Transformers-FFB300" height="25"/>
 
-**Cloud & DevOps**
-  <img src="https://img.shields.io/badge/AWS_S3-FF9900?logo=amazonaws&logoColor=white" alt="AWS S3" height="25"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" alt="Docker" height="25"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white" alt="Streamlit" height="25"/>
-  <img src="https://img.shields.io/badge/Vercel-000?logo=vercel&logoColor=white" alt="Vercel" height="25"/>
+**Cloud & DevOps**  
+  <img src="https://img.shields.io/badge/AWS_S3-FF9900?logo=amazonaws&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/Vercel-000?logo=vercel&logoColor=white" height="25"/>
 
-**Web Development**
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" alt="HTML5" height="25"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" alt="CSS3" height="25"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript" height="25"/>
+**Web Development**  
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" height="25"/>
 
-**Version Control**
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" alt="Git" height="25"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub" height="25"/>
-
-
+**Version Control**  
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" height="25"/>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Raja-89/profile-assets/main/animated-bar.gif" width="300px"/>
@@ -99,21 +122,11 @@
 ---
 
 ## 📊 GitHub Analytics (Live)
-
 <div align="center">
-
-<!-- GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=Raja-89&show_icons=true&theme=tokyonight&count_private=true&hide_border=false&cache_seconds=1800" height="150" alt="GitHub Stats"/>
-
-<!-- Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raja-89&layout=compact&theme=tokyonight&langs_count=6&hide_border=false&cache_seconds=1800" height="150" alt="Top Languages"/>
-
-<!-- Streak Stats -->
-<img src="https://streak-stats.demolab.com?user=Raja-89&theme=tokyonight&hide_border=false&date_format=j%20M%5B%20Y%5D" height="150" alt="GitHub Streak"/>
-
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Raja-89&theme=react-dark&radius=16&area=true&hide_border=false" height="300" alt="Activity Graph"/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=Raja-89&show_icons=true&theme=tokyonight&count_private=true&hide_border=false" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raja-89&layout=compact&theme=tokyonight&langs_count=6&hide_border=false" height="150" />
+  <img src="https://streak-stats.demolab.com?user=Raja-89&theme=tokyonight&hide_border=false&date_format=j%20M%5B%20Y%5D" height="150" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Raja-89&theme=react-dark&radius=16&area=true&hide_border=false" height="300" />
 </div>
 
 ---
@@ -134,4 +147,4 @@
 
 ---
 
-<p align="center">✨ Made with ❤️ by Raja Rathour ✨</p>
+<p align="center">✨ Made with ❤️ by <b>Raja Rathour</b> ✨</p>
