@@ -13,8 +13,13 @@
 
 <!-- Animated Section Separator -->
 <p align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="900">
+  <img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif"
+       width="900px"
+       height="400px"
+       style="transform: rotate(90deg); display: block; margin: 0 auto;"
+       alt="Animated Separator Rotated"/>
 </p>
+
 <!-- 🌟 ABOUT ME SECTION -->
 <table align="center" width="100%">
   <tr>
@@ -149,6 +154,4 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="900">
 </p>
-
-<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="900">
 <p align="center">✨ Made with ❤️ by <b>Raja Rathour</b> ✨</p>
