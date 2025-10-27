@@ -13,10 +13,7 @@
 
 <!-- Animated Section Separator -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif"
-       width="900px"
-       style="transform: rotate(90deg); display: block; margin: 0 auto;"
-       alt="Animated Separator Rotated"/>
+  <img src="https://raw.githubusercontent.com/yourusername/yourrepo/main/banner.gif" width="900" height="400" style="border-radius:10px;">
 </p>
 
 <!-- 🌟 ABOUT ME SECTION -->
