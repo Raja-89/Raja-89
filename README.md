@@ -125,10 +125,15 @@
 ## 🌐 Let's Connect!
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/raja-rathour-067965325/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" height="30"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white" height="30"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white" height="30"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white" height="30"/></a>
+  <a href="https://www.linkedin.com/in/raja-rathour-067965325/" target="_blank">
+    <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100" alt="Link to LinkedIn Profile">
+  </a>
+  <a href="https://www.instagram.com/raja.rathour.89/?hl=en" target="_blank">
+    <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="100" alt="Link to GitHub Profile">
+  </a>
+  <a href="https://discord.com/users/1370818246152028370" target="_blank">
+    <img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="100" alt="Link to Portfolio Website">
+  </a>
 </div>
 
 ---
