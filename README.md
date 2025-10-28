@@ -123,10 +123,7 @@
 
 ## 📊 GitHub Analytics (Live)
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Raja-89&show_icons=true&theme=tokyonight&count_private=true&hide_border=false" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raja-89&layout=compact&theme=tokyonight&langs_count=6&hide_border=false" height="150" />
-  <img src="https://streak-stats.demolab.com?user=Raja-89&theme=tokyonight&hide_border=false&date_format=j%20M%5B%20Y%5D" height="150" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Raja-89&theme=react-dark&radius=16&area=true&hide_border=false" height="300" />
+  <img src="./profile-3d-contrib/profile-night-view.svg" width="70%">
 </div>
 
 ---
