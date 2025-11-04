@@ -111,6 +111,13 @@
 
 ---
 
+---
+## 🏆 Hactoberfest Open-Source Badges
+
+[![An image of @raja89's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/raja89)](https://holopin.io/@raja89)
+
+---
+
 ## 💡 Featured Projects
 
 | Project | Description | Tech Stack | Demo/Repo |
@@ -147,4 +154,3 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="900">
 </p>
-<p align="center">✨ Made with ❤️ by <b>Raja Rathour</b> ✨</p>
