@@ -2,8 +2,8 @@
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" width="100%" alt="Banner"/>
 </p>
 
-<h2 align="center">👋 Hi, I'm Raja Rathour</h2>
-<p align="center"><b>Aspiring AI/ML Engineer | Intelligent Systems | Scalable ML Solutions</b></p>
+<h2 align="center">👋 Hi, I'm Raja Rathour </h2>
+<p align="center"><b>Aspiring AI/ML Engineer | Intelligent Systems | Scalable ML Solutions | Active Learner | Problem Solving </b></p>
 
 <br/>
 
