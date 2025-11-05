@@ -119,7 +119,7 @@
 
 | Project | Description | Tech Stack | Demo/Repo |
 | ------- | ----------- | ---------- | --------- |
-| 🥗 **FoodVision-AI** | Deep learning app identifying 101 food categories from images. | PyTorch, Food-101, Vercel, HTML, JS | [💻 GitHub](https://github.com/Raja-89/FoodVision-AI) <br> [🚀 Live App](https://food-vision-ai-seven.vercel.app) |
+| 🥗 **FoodVision-AI** | Deep learning app identifying 101 food categories from images. | PyTorch, Food-101, Vercel, HTML, JS | [💻 GitHub](https://github.com/Raja-89/FoodVision-AI) <br> |
 | 📰 **Fake News Detector** | ML-based fake news detection with real-time results. | Python, NLP, TF-IDF, Logistic Regression, Streamlit | [💻 GitHub](https://github.com/Raja-89/fake-news-detector) |
 | 🧩 **Tech Stack Tracker** | Web app for tracking and visualizing stacks. | JavaScript, HTML, CSS | [💻 GitHub](https://github.com/Raja-89/tech-stack-tracker) |
 
