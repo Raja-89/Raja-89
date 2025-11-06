@@ -129,6 +129,9 @@
 <div align="center">
   <img src="./profile-3d-contrib/profile-night-view.svg" width="70%">
 </div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rishabh1925&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF" alt="GitHub Stats" height="180"/>
+</div>
 
 ---
 
