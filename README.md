@@ -3,8 +3,6 @@
 </p>
 
 
-
-
 <h2 align="center">👋 Hi, I'm Raja Rathour </h2>
 <p align="center"><b>Aspiring AI/ML Engineer | Intelligent Systems | Scalable ML Solutions | Active Learner | Problem Solving </b></p>
 
