@@ -123,6 +123,8 @@
 | 📰 **Fake News Detector** | ML-based fake news detection with real-time results. | Python, NLP, TF-IDF, Logistic Regression, Streamlit | [💻 GitHub](https://github.com/Raja-89/fake-news-detector) |
 | 🧩 **Tech Stack Tracker** | Web app for tracking and visualizing stacks. | JavaScript, HTML, CSS | [💻 GitHub](https://github.com/Raja-89/tech-stack-tracker) |
 
+
+<!--
 ---
 
 ## 📊 GitHub Analytics (Live)
@@ -134,7 +136,7 @@
 </div>
 
 ---
-
+-->
 ## 🌐 Let's Connect!
 
 <div align="center">
