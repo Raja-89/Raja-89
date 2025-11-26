@@ -124,19 +124,19 @@
 | 🧩 **Tech Stack Tracker** | Web app for tracking and visualizing stacks. | JavaScript, HTML, CSS | [💻 GitHub](https://github.com/Raja-89/tech-stack-tracker) |
 
 
-<!--
+
 ---
 
 ## 📊 GitHub Analytics (Live)
 <div align="center">
   <img src="./profile-3d-contrib/profile-night-view.svg" width="70%">
 </div>
+<!--
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Raja-89&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF" alt="GitHub Stats" height="180"/>
 </div>
-
----
 -->
+---
 ## 🌐 Let's Connect!
 
 <div align="center">
