@@ -5,9 +5,6 @@
 <p align="center"><b>Aspiring AI/ML Engineer | Intelligent Systems | Scalable ML Solutions | Active Learner | Problem Solving </b></p
 <br/>
 
-
-
-
 <!-- Animated Section Separator -->
 <p align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="900">
