@@ -11,6 +11,7 @@
 </p>
 
 <!-- 🌟 ABOUT ME SECTION -->
+
 <table align="center" width="100%">
   <tr>
     <td width="60%" align="left" valign="top">
