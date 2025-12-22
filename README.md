@@ -23,7 +23,7 @@
 -  Passionate about **building intelligent, data-driven systems** that solve real-world problems  
 -  Currently exploring **Deep Learning**, **Computer Vision**, and **Generative AI**  
 -  Interested in combining **Mathematics + Programming** to create meaningful innovation  
--  Always learning — focusing on **MLOps** and **scalable ML deployment**  
+-  Always learning and focusing on **MLOps** and **scalable ML deployment**  
 -  I love discussing **AI Ethics, Optimization, and Clean Architecture**  
 -  Fun fact: I debug faster with music 🎧  
 
